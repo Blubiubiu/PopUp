@@ -3,7 +3,8 @@
 ### A simple pop-up box plugin, but if u want to give some help, don't be stingy, just show me the code!!!
 
 ##### How to use:
-======
+=======
+
   \<html>: 
     <br>
     \<div id="MyDiv">\</div> .
