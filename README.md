@@ -5,11 +5,11 @@
 ##### How to use: #####
 =======
 
-  \<html>: 
+\<html>: 
     <br><br>
     	\<div id="MyDiv">\</div>
     <br><br>
-  \<js>:
+\<js>:
     <br><br>
     let popup = new PopUp('MyDiv',{
     <br><br>
@@ -47,5 +47,7 @@
     <br><br>
     });
     <br><br>
+    
     #### All parameters are not required, we have a default parameters. ####
-    ##### Thanks!!! #####
+    
+    ###  Thanks!!!  ###
