@@ -1,16 +1,16 @@
-# PopUp 
+# PopUp #
 
-### A simple pop-up box plugin, but if u want to give some help, don't be stingy, just show me the code!!!
+### A simple pop-up box plugin, but if u want to give some help, don't be stingy, just show me the code!!! ###
 
-##### How to use:
+##### How to use: #####
 =======
 
   \<html>: 
-    <code>
-    	<div id="MyDiv">\</div>
-    </code>
+    
+    	\<div id="MyDiv">\</div>
+    
   \<js>:
-    <br>
+    <br><br>
     let popup = new PopUp('MyDiv',{
 	width: '', //弹出框宽度(px)
     <br>
