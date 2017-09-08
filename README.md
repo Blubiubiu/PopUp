@@ -10,8 +10,7 @@
   \<js>:
     <br>
     let popup = new PopUp('MyDiv',{
-    <br>
-        width: '', //弹出框宽度(px)
+				width: '', //弹出框宽度(px)
     <br>
         height: '', //弹出框高度(px)
     <br>
