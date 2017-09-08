@@ -13,7 +13,7 @@
     <br><br>
     let popup = new PopUp('MyDiv',{
     <br><br>
-    		&nbsp;&nbsp;width: '', //弹出框宽度(px)
+    		   &nbsp;&nbsp;width: '', //弹出框宽度(px)
     <br><br>
         	&nbsp;&nbsp;height: '', //弹出框高度(px)
     <br><br>
