@@ -12,24 +12,25 @@
   \<js>:
     <br><br>
     let popup = new PopUp('MyDiv',{
+    <br><br>
 	width: '', //弹出框宽度(px)
-    <br>
+    <br><br>
         height: '', //弹出框高度(px)
-    <br>
+    <br><br>
         text: '', //描述(string)
-    <br>
+    <br><br>
         color: '', //字体颜色
-    <br>
+    <br><br>
         SgColor : '', //弹出框背景颜色
-    <br>
+    <br><br>
         BgColor: '', //背景颜色
-    <br>
+    <br><br>
         fontSize: '',	//字体大小(px)
-    <br>
+    <br><br>
         left: '', //弹出框距离左侧位置(px)
-    <br>
+    <br><br>
         top: '',	//弹出框距离顶部位置(px)
-    <br>
+    <br><br>
         borderRadius: '', //弹出框边角(px)
     <br>
         loadingClass: '', //loading动画样式(loader0~loader7)
