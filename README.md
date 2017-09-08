@@ -3,9 +3,11 @@
 ### A simple pop-up box plugin, but if u want to give some help, don't be stingy, just show me the code!!!
 
 ##### How to use:
-  ###### \<html>:
-    \<div id="MyDiv">\</div>
-  ###### <js>:
+  \<html>: 
+    <br>
+    \<div id="MyDiv">\</div> .
+    <br>
+  \<js>:
     let popup = new PopUp('MyDiv',{
         width: '', //弹出框宽度(px)
         height: '', //弹出框高度(px)
