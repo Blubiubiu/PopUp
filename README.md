@@ -47,6 +47,10 @@
     <br><br>
     });
     <br><br>
+
+    document.getElementById('MyDiv').onclick = function () {
+        popup.fadeIn();
+    }
     
     #### All parameters are not required, we have a default parameters. ####
     
