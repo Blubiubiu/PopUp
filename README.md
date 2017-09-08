@@ -6,9 +6,9 @@
 =======
 
   \<html>: 
-    <br>
-    \<div id="MyDiv">\</div> .
-    <br>
+    <pre>
+    	<div id="MyDiv">\</div>
+    </pre>
   \<js>:
     <br>
     let popup = new PopUp('MyDiv',{
