@@ -5,11 +5,11 @@
 ##### How to use: #####
 =======
 
-<html>: 
+\<html>: 
  
 	<div id="MyDiv"></div>
 
-<js>:
+\<js>:
 
 	let popup = new PopUp('MyDiv',{
 		width: '', //弹出框宽度(px)
