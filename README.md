@@ -5,11 +5,11 @@
 ##### How to use: #####
 =======
 
-\<html>: 
+<html>: 
  
-	\<div id="MyDiv">\</div>
+	<div id="MyDiv"></div>
 
-\<js>:
+<js>:
 
 	let popup = new PopUp('MyDiv',{
 		width: '', //弹出框宽度(px)
@@ -28,13 +28,13 @@
 		textMarginTop: '', //文字距离loading动画距离(px)
 		fadeInSpeed: '',	//淡入时速度(number)
 		fadeOutSpeed: ''	//淡出时速度(number)
-    });
+	});
 
+	document.getElementById('MyDiv').onclick = function () {
+        	popup.fadeIn();
+	}
+    
 
-    document.getElementById('MyDiv').onclick = function () {
-        popup.fadeIn();
-    }
+#### All parameters are not required, we have a default parameters. ####
     
-    #### All parameters are not required, we have a default parameters. ####
-    
-    ###  Thanks!!!  ###
+###  Thanks!!!  ###
