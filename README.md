@@ -1,4 +1,4 @@
-# PopUp #
+﻿# PopUp #
 
 ### A simple pop-up box plugin, but if u want to give some help, don't be stingy, just show me the code!!! ###
 
@@ -6,9 +6,9 @@
 =======
 
 \<html>: 
-    <br><br>
-    &nbsp;&nbsp;	\<div id="MyDiv">\</div>
-    <br><br>
+ 
+\<div id="MyDiv">\</div>
+
 \<js>:
     <br><br>
     let popup = new PopUp('MyDiv',{
